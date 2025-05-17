@@ -1,0 +1,18 @@
+[submodule "OrderManagement-Product"]
+	path = OrderManagement-Product
+	url = https://github.com/ana-genova/OrderManagement-Product.git
+[submodule "OrderManagement-Client"]
+	path = OrderManagement-Client
+	url = https://github.com/julioborges05/OrderManagement-Client.git
+[submodule "OrderManagement-Payment"]
+	path = OrderManagement-Payment
+	url = https://github.com/Marques67/OrderManagement-Payment.git
+[submodule "OrderManagement-Order"]
+	path = OrderManagement-Order
+	url = https://github.com/dnrmth/OrderManagement-Order.git
+[submodule "OrderManagement-Inventory"]
+	path = OrderManagement-Inventory
+	url = https://github.com/rodrigodiasflamia/OrderManagement-Inventory.git
+[submodule "OrderReceiver"]
+	path = OrderReceiver
+	url = https://github.com/julioborges05/OrderReceiver.git
